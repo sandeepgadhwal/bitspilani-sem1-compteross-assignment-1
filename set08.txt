@@ -1,0 +1,16 @@
+Attached is the Set of Questions for your group and the Documentation file to document your analysis and results.
+
+The first part of the assignment is to be implemented using the CPU – OS Simulator’s Assembly Language Program.
+
+The second part o the assignment are problems that need to be solved.
+
+Instructions for the COSS Assignment 2:
+
+1. Results need to be tabulated.
+2. Individual grading will depend on the individual's contribution that is mentioned in the contribution table of the Documentation file.
+3. Documentation file should be in the DOC format only (not PDF).
+4. The CPU OS Simulator's Source code file ( *.sas extension file) and the Documentation file should be wrapped in a folder and zipped. The filename of the zipped file should be the group's name. This *.zip file is to be submitted in CANVAS.
+5. Files submitted by any means outside CANVAS will not be accepted for grading.
+6. In case of any clarification, the faculty reserves the right to query the candidate.
+7. Plagiarism is prohibited and strict action will be taken on any such occurrence.
+8. The due date for the Assignment is EOD 24.01.20. This deadline is to be strictly adhered to and there will be no extension of the due date.

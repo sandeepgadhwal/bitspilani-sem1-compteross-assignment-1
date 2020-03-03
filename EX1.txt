@@ -1,0 +1,6 @@
+program My_Pgm
+	i = 25
+	for n = 1 to 25
+		x = i * n
+	next
+end
